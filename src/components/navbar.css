@@ -1,0 +1,15 @@
+.navbar{
+    display:flex;
+    justify-content:center;
+    background-color:#000000;
+    color : white;
+}
+
+ul{
+    list-style-type:none;
+}
+
+li{
+    font-size: 25px;
+}
+
